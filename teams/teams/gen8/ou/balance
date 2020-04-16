@@ -1,55 +1,58 @@
-Rotom-Heat @ Heavy-Duty Boots
-Ability: Levitate
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-IVs: 0 Atk
-- Volt Switch
-- Overheat
-- Thunderbolt
-- Nasty Plot
+Melmetal @ Choice Band  
+Ability: Iron Fist  
+EVs: 236 HP / 252 Atk / 20 Spe  
+Adamant Nature  
+- Double Iron Bash  
+- Superpower  
+- Thunder Punch  
+- Earthquake  
 
-Corviknight @ Leftovers
-Ability: Pressure
-EVs: 252 HP / 76 Def / 180 SpD
-Impish Nature
-- Roost
-- U-turn
-- Defog
-- Brave Bird
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Scald  
+- Roost  
+- U-turn  
+- Defog  
 
-Clefable @ Leftovers
-Ability: Magic Guard
-EVs: 252 HP / 160 Def / 96 SpD
-Calm Nature
-- Thunder Wave
-- Moonblast
-- Wish
-- Protect
+Keldeo-Resolute @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Surf  
+- Secret Sword  
+- Focus Blast  
 
-Seismitoad @ Leftovers
-Ability: Water Absorb
-EVs: 252 HP / 4 Atk / 252 Def
-Relaxed Nature
-- Earthquake
-- Stealth Rock
-- Toxic
-- Scald
+Kommo-o @ Haban Berry  
+Ability: Bulletproof  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Body Press  
+- Draco Meteor  
+- Iron Defense  
 
-Hydreigon @ Choice Scarf
-Ability: Levitate
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-- Draco Meteor
-- Dark Pulse
-- Flash Cannon
-- Fire Blast
+Seismitoad @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Earth Power  
+- Grass Knot  
+- Focus Blast  
 
-Gyarados @ Leftovers
-Ability: Moxie
-EVs: 252 Atk / 4 SpD / 252 Spe
-Adamant Nature
-- Dragon Dance
-- Earthquake
-- Waterfall
-- Power Whip
+Dracovish @ Choice Scarf  
+Ability: Strong Jaw  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Fishious Rend  
+- Outrage  
+- Psychic Fangs  
+- Dragon Rush  
+
 
